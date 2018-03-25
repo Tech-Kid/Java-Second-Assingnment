@@ -1,6 +1,4 @@
-/*   
-*@author Avinash Koshal
-*/
+/*@author Abhay Jeet Zutshi*/
 import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
